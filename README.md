@@ -1,5 +1,4 @@
 ## Self Checkout Méqui
-![McDonald's]([[https://link-da-imagem-do-mcdonalds](https://updateordie.com/wp-content/uploads/2025/01/mcdonalds_logo.webp)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fupdateordie.com%2F2025%2F01%2F17%2Fa-evolucao-do-logo-do-mcdonalds-uma-jornada-visual-atraves-das-decadas%2F&psig=AOvVaw14dJE3pEGFxLP0tHa3xXyr&ust=1741019324184000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiwuMvo64sDFQAAAAAdAAAAABAE))
 
 
 ## Sobre o projeto:
