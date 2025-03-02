@@ -1,5 +1,5 @@
 ## Self Checkout Méqui
-![McDonald's](https://link-da-imagem-do-mcdonalds)
+![McDonald's]([https://link-da-imagem-do-mcdonalds](https://updateordie.com/wp-content/uploads/2025/01/mcdonalds_logo.webp))
 
 
 ## Sobre o projeto:
