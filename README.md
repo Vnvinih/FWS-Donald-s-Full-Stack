@@ -2,7 +2,7 @@
 
 
 ## Sobre o projeto:
-O Self Checkout Méqui é um projeto Full-Stack. Ele visa proporcionar uma experiência de compra eficiente, conectando Front-End, Back-End e Banco de Dados para criar uma aplicação de Self Checkout funcional e dinâmica, voltada para o uso em lojas de fast food.
+O Self Checkout Méqui é um projeto Full-Stack desenvolvido durante o evento Full Stack Week da Full Stack Club. Ele visa proporcionar uma experiência de compra eficiente, conectando Front-End, Back-End e Banco de Dados para criar uma aplicação de Self Checkout funcional e dinâmica, voltada para o uso em lojas de fast food.
 
 ## Funcionalidades:
 Cadastro de pedidos: O cliente pode finalizar seu pedido, incluindo nome, CPF, quantidade de produtos, preço total, e status.
